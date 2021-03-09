@@ -29,10 +29,6 @@ Pour ce faire vous devez :
 	* Scrapping image : `974801592436.dkr.ecr.eu-west-3.amazonaws.com/scrapping`
 	* Push db image : `974801592436.dkr.ecr.eu-west-3.amazonaws.com/database`
 
-* Connection console AWS
-    * `ID Organisation : 974801592436`
-    * `user : test`
-    * `password : test-technique1`
     
 ## Optionnels
 
