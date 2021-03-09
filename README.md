@@ -11,13 +11,13 @@ Pour ce faire vous devez :
 
 ## Info d'environnement
 
-* api intercom : token = `dG9rOjI2N2JmN2VlX2E0MmNfNGFlYl9hZmI4XzRjOGZlYWU0NjMxOToxOjA=`
+* api intercom : token = ``
     * contacts à lire : `tous (9)`
     * conversations à lire : `toutes`
 * datalake (bucket S3) : ``nalia-technical-test``
 * chemin du fichier à écrire : ``s3://data/users.json`` et ``s3://data/conversations.json``
 * datawarehouse (aurora) :
-	* `mdp : Pb81F7RFQaPHKWGnLk5q`
+	* `mdp : `
 	* `user : admin`
 	* `port : 3306`
 	* `host : database-2.cgvivklne8l4.eu-west-3.rds.amazonaws.com`
