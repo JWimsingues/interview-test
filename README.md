@@ -33,10 +33,6 @@ Pour ce faire vous devez :
     * `ID Organisation : 974801592436`
     * `user : test`
     * `password : test-technique1`
-
-* Accès AWS par programmation
-    * `Acces key : AKIA6F5VT4B2FFBHZTFO`
-    * `Secret key : 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`
     
 ## Optionnels
 
